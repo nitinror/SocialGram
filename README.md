@@ -1,2 +1,1 @@
-# SocialGram
-SocialGram is a Social Media App built using MERN Stack.
+Link to the template files: https://github.com/tomitokko/django-social-media-template
